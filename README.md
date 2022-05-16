@@ -17,11 +17,11 @@ You can clone this repo as starter project for your GraphQL API server
 
 ## Screenshots
 
-### Folder Structure
+### Initialize typescript
 
 ![initialize typescript](https://drive.google.com/uc?export=view&id=1ffFxyCLIqOGeDV7eEuOAxqAfyWrGfQF-)
 
-### Backend Docker File
+### Initialize npm
 
 ![initialize npm](https://drive.google.com/uc?export=view&id=1j0c_1yt_1eZDXF7gGR_HVsJLkpu2HhCP)
 
