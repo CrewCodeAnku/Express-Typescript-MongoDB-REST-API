@@ -2,8 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-GraphQL API with Apollo Server, Node, and MongoDB , i have used mongoose schema to define schema for MongoDB Collection
-You can clone this repo as starter project for your GraphQL API server
+Express ,Typescript MongoDB Complete REST API You can clone this repo as starter project for your Express, MongoDB API server
 
 **Demo Youtube Video** - ***https://www.youtube.com/watch?v=yYlSfTO8-kE***
 
